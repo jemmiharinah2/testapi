@@ -1,0 +1,125 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+    background: rgb(237, 177, 255);
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #f9f9f9;
+    font-size: 50px
+}
+
+h2 {
+  
+    color: #7000bb;
+    font-size: 25px
+}
+h3 {
+  
+    color: #4b0145;
+    font-size: 20px
+}
+
+.all{
+    height: 100vh;
+}
+#userList {
+    max-width: 480px;
+    margin: 0 auto;
+}
+
+.image{
+    float: right;
+}
+
+.info{
+    background-color: #f9f9f967;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.342);
+    
+}
+.Text{
+    align-items: center;
+}
+
+img {
+    
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+.userCard {
+    width: 500px;
+    height: 50vh;
+    background-color: #f9f9f9;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.additionalInfo {
+    display: none;
+  }
+  
+  .additionalInfo.show {
+    display: block;
+  }
+  @media screen and (max-width: 600px) {
+    img {
+      width: 80px;
+      height: 80px;
+    }
+  
+    .userCard {
+      width: 100%;
+    }
+
+    p{
+        font-size: 10px;
+
+    }
+    h1{
+        font-size: 18px;
+    }
+    h2{
+        font-size: 15px;
+    }
+    h3{
+        font-size: 13px;
+    }
+  }
+
+  button {
+    display: inline-block;
+    padding: 12px 20px;
+    font-size: 15px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(126, 26, 129);
+    border-radius: 8px;
+    border: none;
+    cursor: pointer;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s, box-shadow 0.3s;
+  }
+
+  button:hover {
+    background-color: #c17fc7;
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+  }

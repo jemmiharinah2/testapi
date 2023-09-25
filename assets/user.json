@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Ervin Howell",
+        "username": "Antonette",
+        "any":"Multi-layered client-server neural-net",
+        "email": "Shanna@melissa.tv",
+        "address": "street-Kulas Light" ,
+        "phone": "(254)954-1289",
+        "company":"Romaguera-Crona"
+    },
+        {
+        "id": 2,
+        "name": "Mrs. Dennis Schulist",
+        "username": "Elwyn.Skiles",
+        "any":"Proactive didactic contingency",
+        "email": "Shanna@melissa.tv",
+        "address": "Victor Plains",
+        "phone": "(254)954-1289",
+        "company":"Keebler LLC"
+    },
+    {
+        "id": 3,
+        "name": "Chelsey Dietrich",
+        "any":"Face to face bifurcated interface",
+        "username": "Moriah.Stanton",
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": "Douglas Extension",
+        "phone": "(254)954-1289",
+        "company":"Considine-Lockman"
+    },
+    {
+        "id": 4,
+        "name": "Glenna Reichert",
+        "any":"Multi-tiered zero tolerance productivity",
+        "username": "Kamren",
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": "South Elvis",
+        "phone": "(254)954-1289",
+        "company":"Johns Group"
+    },
+    {
+        "id": 5,
+        "name": "Clementina DuBuque",
+        "any":"User-centric fault-tolerant solution",
+        "username": "Delphine",
+        "email": "Lucio_Hettinger@annie.ca",
+        "address": "South Christy",
+        "phone": "(254)954-1289",
+        "company":"Yost and Sons"
+    }
+  ]
